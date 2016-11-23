@@ -50,7 +50,7 @@ Self taught materials of deep learning. Moreover, checking the latest Github rep
   * Although deep learning is not explained in this post, included content of image kernels is beneficial.
 
 ### Unsupervised Learning
-* mind, etc.: Generating Faces with Deconvolution Networks [[web]]
+* Mind, etc.: Generating Faces with Deconvolution Networks [[web]]
 (https://zo7.github.io/blog/2016/09/25/generating-faces.html)
   * Generating faces is one of the applications of generative models. Its explanation is provided.
 * Mark Swarbrick Jones: Generative adversarial autoencoders in Theano [[web]]
@@ -97,7 +97,6 @@ Self taught materials of deep learning. Moreover, checking the latest Github rep
 * Handong1587: Image Generation [[web]]
 (https://handong1587.github.io/deep_learning/2015/10/09/image-generation.html)
   * Curated list of image generation by Handong University.
-
 * Rodrigob: Classification datasets results [[web]]
 (http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)
   * Current state of the art in object classification is collected. Well-known datasets: MNIST, CIFAR-10, CIFAR-100, STL-10, SVHN, ILSVRC2012 task 1 are shown.
