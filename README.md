@@ -14,6 +14,9 @@ Self taught materials of deep learning. Moreover, checking the latest Github rep
 * University of Toronto: CSC2541 - Differential Inference and Generative Models [[web]]
 (http://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
   * The latest course related to generative models is introduced. Unfortunately, lecture video is not provided. However, its selected papers and several lecture notes are very beneficial. I think trying to read papers shown this material is good start point to study generative models.
+* ELEG 5040: Advanced Topics in Signal Processing [[web]]
+(https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/resources)
+ * Resources related to deep learning are provided.
 
 ## Blogs
 * Andrej Karpathy: Hacker's guide to Neural Networks [[web]]
@@ -31,6 +34,8 @@ Self taught materials of deep learning. Moreover, checking the latest Github rep
 * Abubakar Abid: Introduction to Deep Learning in Medicine and Biology [[web]]
 (http://a12d.com/deep-learning-biomedicine)
   * Interesting post of using deep learning in medicine and biology fields.
+* Yarin Gal: University of Cambridge
+(http://mlg.eng.cam.ac.uk/yarin/blog.html)
 
 ### Computer Vision
 * Adit Deshpande: CS Undergrad at UCLA ('19) [[web]]
@@ -50,6 +55,9 @@ Self taught materials of deep learning. Moreover, checking the latest Github rep
   * Although deep learning is not explained in this post, included content of image kernels is beneficial.
 
 ### Unsupervised Learning
+* OpenAI: Generative Models [[web]]
+(https://openai.com/blog/generative-models/)
+ * Nice explanation of generative models; also other informative posts are provided.
 * Mind, etc.: Generating Faces with Deconvolution Networks [[web]]
 (https://zo7.github.io/blog/2016/09/25/generating-faces.html)
   * Generating faces is one of the applications of generative models. Its explanation is provided.
