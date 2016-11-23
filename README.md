@@ -56,6 +56,9 @@ Self taught materials of deep learning. Moreover, checking the latest Github rep
 * Mark Swarbrick Jones: Generative adversarial autoencoders in Theano [[web]]
 (https://swarbrickjones.wordpress.com/2016/01/24/generative-adversarial-autoencoders-in-theano/)
   * Brief information of generative adversarial autoencoders
+* FAIR: The eyescream project [[web]]
+(http://soumith.ch/eyescream/)
+ * Facebook genearting natural images project
 * Jan Hendrik Metzen: Variational Autoencoder in TensorFlow [[web]]
 (https://jmetzen.github.io/2015-11-27/vae.html)
   * Implementation of VAE using TensorFlow is explained step by step.
