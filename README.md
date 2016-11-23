@@ -1,5 +1,5 @@
 # dl-study
-Self taught materials of deep learning.
+Self taught materials of deep learning. Moreover, checking the latest Github repositories and GitXiv projects are necessary.
 
 ## Online courses
 * [Graduate Summer School: Deep Learning, Feature Learning]
@@ -22,7 +22,17 @@ Self taught materials of deep learning.
 * [Brandon Amos: Ph.D students in CMU]
 (http://bamos.github.io/)
 <br>Blog post: \<Image Completion with Deep Learning in TensorFlow\> was very beneficial.
+* [What does the gradient flowing through batch normalization looks like ? – Clément thorey]
+(http://cthorey.github.io/backpropagation/)
+<br>Review and explanation of batch normalization
+* [A Survey of Selected Papers on Deep Learning at ICML 2016]
+(https://www.twosigma.com/insights/a-survey-of-selected-papers-on-deep-learning-at-icml-2016)
+<br>To grasp latest research on deep learning, recent papers are needed to be read. To save time, these kinds of paper survey can be a reference.
+* [Introduction to Deep Learning in Medicine and Biology]
+(http://a12d.com/deep-learning-biomedicine)
+<br>Interesting post of using deep learning in medicine and biology fields.
 
+### Computer Vision
 * [Adit Deshpande – CS Undergrad at UCLA ('19)]
 (https://adeshpande3.github.io/adeshpande3.github.io/)
 <br>Introduction of the state-of-the-art ConvNets, GANS, and Reinforcement learnings are posted.
@@ -32,10 +42,20 @@ Self taught materials of deep learning.
 * [ResNets, HighwayNets, and DenseNets, Oh My!]
 (https://chatbotslife.com/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32#.n12cjesup)
 <br>State-of-the-art deep learning networks including ResNet and HighwayNets are posted with detailed explanation and implementation using TensorFlow. Other posts of this blog are also very beneficial.
+* [Deconvolution and Checkerboard Artifacts]
+(http://distill.pub/2016/deconv-checkerboard/)
+<br>Great post of deconvolution comparison. The post is written by Google Brain researcher. I think this post is in must-read list.
+* [Image Kernels explained visually]
+(http://setosa.io/ev/image-kernels/)
+<br>Although deep learning is not explained in this post, included content of image kernels is beneficial.
 
+### Unsupervised Learning
 * [Generating Faces with Deconvolution Networks]
 (https://zo7.github.io/blog/2016/09/25/generating-faces.html)
 <br>Generating faces is one of the applications of generative models. Its explanation is provided.
+* [Generative adversarial autoencoders in Theano]
+(https://swarbrickjones.wordpress.com/2016/01/24/generative-adversarial-autoencoders-in-theano/)
+<br>Brief information of generative adversarial autoencoders
 * [Variational Autoencoder in TensorFlow]
 (https://jmetzen.github.io/2015-11-27/vae.html)
 <br>Implementation of VAE using TensorFlow is explained step by step.
@@ -43,10 +63,12 @@ Self taught materials of deep learning.
 (http://blog.fastforwardlabs.com/post/149329060653/under-the-hood-of-the-variational-autoencoder-in)
 <br>Explanation and implementation of VAE using TensorFlow are posted by machine intelligence research company called Fast Forward Labs.
 
+### Natural Language Processing
 * [Probably Approximately a Scientific Blog]
 (http://veredshwartz.blogspot.kr/2016/01/representing-words.html)
 <br>This post explains methods of representing words which is mostly used in natural language processing.
 
+### Reinforcement Learning
 * [Reinforcement Learning and DQN, learning to play from pixels]
 (https://rubenfiszel.github.io/posts/rl4j/2016-08-24-Reinforcement-Learning-and-DQN.html)
 <br>Post of reinforcement learning and DQN with detailed explanation and implementation.
@@ -82,3 +104,9 @@ Self taught materials of deep learning.
 * [Computer Vision and Pattern Recognition (cs.CV)]
 (https://scirate.com/arxiv/cs.CV)
 <br>Lists of CVPR papers with abstracts.
+* [2D Visualization of a Convolutional Neural Network]
+(http://scs.ryerson.ca/~aharley/vis/conv/flat.html)
+<br>Visual intuition of convolutional neural network
+* [Machine Learning - Reddit]
+(https://www.reddit.com/r/MachineLearning/)
+<br>Machine learning channel in Reddit.
