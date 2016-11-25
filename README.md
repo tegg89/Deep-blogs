@@ -1,5 +1,5 @@
 # dl-study
-Self taught materials of deep learning. Moreover, checking the latest Github repositories and GitXiv projects are necessary.
+Many well-curated lists of deep learning resources are available through repositories. They included course materials, papers and others. However, researchers' well-written blogs are lacked of information. I also study deep learning through online courses and papers, moreover blog materials have brought easily understanding of algorithms and implemenetations. In this repository, I especially listed blogs of researchers related to deep learning. I also recommend to go over open-project website: GitXiv.
 
 ## Online Courses
 * IPAM Summer School [[web]]
