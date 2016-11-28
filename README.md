@@ -73,6 +73,10 @@ Many well-curated lists of deep learning resources are available through reposit
 * Fast Forward Labs: Under the Hood of the Variational Autoencoder [[web]]
 (http://blog.fastforwardlabs.com/post/149329060653/under-the-hood-of-the-variational-autoencoder-in)
   * Explanation and implementation of VAE using TensorFlow are posted by machine intelligence research company called Fast Forward Labs.
+* Introduction to Autoencoders [[web]]
+(https://pgaleone.eu/neural-networks/2016/11/18/introduction-to-autoencoders/)
+* Convolutional Autoencoders [[web]]
+(https://pgaleone.eu/neural-networks/2016/11/24/convolutional-autoencoders/)
 
 ### Natural Language Processing
 * Vered Shwartz: Probably Approximately a Scientific Blog [[web]]
