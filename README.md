@@ -57,10 +57,16 @@ Many well-curated lists of deep learning resources are available through reposit
 ### Unsupervised Learning
 * OpenAI: Generative Models [[web]]
 (https://openai.com/blog/generative-models/)
- * Nice explanation of generative models; also other informative posts are provided.
+ * Nice explanation of generative model and its various versions.
 * Mind, etc.: Generating Faces with Deconvolution Networks [[web]]
 (https://zo7.github.io/blog/2016/09/25/generating-faces.html)
-  * Generating faces is one of the applications of generative models. Its explanation is provided.
+  * Generating faces is one of the applications of generative models.
+* Generative Adversarial Networks Explained with a Classic Spongebob Squarepants Episode [[web]]
+(https://medium.com/@awjuliani/generative-adversarial-networks-explained-with-a-classic-spongebob-squarepants-episode-54deab2fce39#.jiv4fnrno)
+  * This post explains generative adversarial nets using Spongebob metaphor. It has a tutorial implementing GAN on Tensorflow.
+* Learning Interpretable Latent Representations with InfoGAN [[web]]
+(https://medium.com/emergent-future/learning-interpretable-latent-representations-with-infogan-dd710852db46#.8b1gr8jmc)
+  * This post explains extension of GANs called InfoGAN. It has a tutorial implementing InfoGAN on Tensorflow.
 * Mark Swarbrick Jones: Generative adversarial autoencoders in Theano [[web]]
 (https://swarbrickjones.wordpress.com/2016/01/24/generative-adversarial-autoencoders-in-theano/)
   * Brief information of generative adversarial autoencoders
