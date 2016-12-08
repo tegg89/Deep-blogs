@@ -79,6 +79,9 @@ Many well-curated lists of deep learning resources are available through reposit
 * Fast Forward Labs: Under the Hood of the Variational Autoencoder [[web]]
 (http://blog.fastforwardlabs.com/post/149329060653/under-the-hood-of-the-variational-autoencoder-in)
   * Explanation and implementation of VAE using TensorFlow are posted by machine intelligence research company called Fast Forward Labs.
+* Introducing Neural Dream Videos [[web]]
+(https://medium.com/@awjuliani/introducing-neural-dream-videos-5d517b3cc804#.skva5r1zp)
+  * This post introduce about neural deam videos, which is combined with variational autoencoder and recurrent neural network. Implementation of it is included as Github address.
 * Introduction to Autoencoders [[web]]
 (https://pgaleone.eu/neural-networks/2016/11/18/introduction-to-autoencoders/)
 * Convolutional Autoencoders [[web]]
