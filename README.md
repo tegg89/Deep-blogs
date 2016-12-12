@@ -53,6 +53,9 @@ Many well-curated lists of deep learning resources are available through reposit
 * Explained Visually: Image Kernels [[web]]
 (http://setosa.io/ev/image-kernels/)
   * Although deep learning is not explained in this post, included content of image kernels is beneficial.
+* Understanding Neural Networks Through Deep Visualization [[web]]
+(http://yosinski.com/deepvis)
+  * This post explains about visualizing outputs of inner-layers in ConvNets. The paper is released from ICML.
 
 ### Unsupervised Learning
 * OpenAI: Generative Models [[web]]
@@ -82,6 +85,9 @@ Many well-curated lists of deep learning resources are available through reposit
 * Introducing Neural Dream Videos [[web]]
 (https://medium.com/@awjuliani/introducing-neural-dream-videos-5d517b3cc804#.skva5r1zp)
   * This post introduce about neural deam videos, which is combined with variational autoencoder and recurrent neural network. Implementation of it is included as Github address.
+* What is variational autoencoders? [[web]]
+(https://jaan.io/what-is-variational-autoencoder-vae/)
+  * This post explicitly explains about VAE. Excellent introduction to study VAE.
 * Introduction to Autoencoders [[web]]
 (https://pgaleone.eu/neural-networks/2016/11/18/introduction-to-autoencoders/)
 * Convolutional Autoencoders [[web]]
